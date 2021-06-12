@@ -2,7 +2,7 @@
 
 ## Preface
 
-DBL is a sort of model that integrating process states to increase the confidence of Deep models. Depending on the experimental setting, we can divide the DBL models into three Tasks:
+DBL is a sort of model that integrating statistical property into Deep models to calibrate the confidence corresponding to the data and modles. Depending on the experimental setting, we can divide the DBL models into three parts:
 
 * **Generative models in CV**
 * **Uncertainty quantization in Machine Learning**
@@ -33,7 +33,7 @@ Many works have been done to analyze the connection between Deep models and Stat
 
 ### 1.1 Uncertainty Quantization
 
-Here Thesis marked in  $\spadesuit$  are some baselines for OoD and $\bigstar$ for Activate Learning Tasks.
+Here Thesis marked in  $\spadesuit$  are some baselines for OoD and $\clubsuit$ for Activate Learning Tasks.
 
 * **Arxiv21**: Uncertainty Baselines: Benchmarks for uncertainty & robustness in deep learning 
   * [**Paper**](https://arxiv.org/abs/2106.04015), [**Code**](https://github.com/google/uncertainty-baselines)
