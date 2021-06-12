@@ -1,5 +1,15 @@
 # Bayesian Deep Learning Reading list
 
+- [Bayesian Deep Learning Reading list](#bayesian-deep-learning-reading-list)
+  * [Preface](#preface)
+  * [Machine Learning](#machine-learning)
+    + [Uncertainty Quantization](#uncertainty-quantization)
+    + [Statistic Models](#statistic-models)
+  * [Computer Vision](#computer-vision)
+    + [Generative model: AIR](#generative-model--air)
+    + [Generative models: VAE & GAN](#generative-models--vae---gan)
+  * [Time Series](#time-series)
+
 ## Preface
 
 DBL is a sort of model that integrating statistical property into Deep models to calibrate the confidence corresponding to the data and modles. Depending on the experimental setting, we can divide the DBL models into three parts:
@@ -29,9 +39,9 @@ Many works have been done to analyze the connection between Deep models and Stat
   
   
 
-## 1. Machine Learning
+## Machine Learning
 
-### 1.1 Uncertainty Quantization
+### Uncertainty Quantization
 
 Here Thesis marked in  $\spadesuit$  are some baselines for OoD and $\clubsuit$ for Activate Learning Tasks.
 
@@ -50,13 +60,13 @@ Here Thesis marked in  $\spadesuit$  are some baselines for OoD and $\clubsuit$ 
 * **Arxiv21-DDU:** Deterministic Neural Networks with Appropriate Inductive Biases Capture Epistemic and Aleatoric Uncertainty,
   *  [**Paper**](https://arxiv.org/pdf/2102.11582.pdf),[**Code**](https://github.com/omegafragger/DDU)
 
-### 1.2 Statistic Models
+### Statistic Models
 
-## 2. Computer Vision
+## Computer Vision
 
-### 2.1 Generative model: AIR
+### Generative model: AIR
 
-### 2.2 Generative models: VAE & GAN
+### Generative models: VAE & GAN
 
-## 3. Time Series
+## Time Series
 
