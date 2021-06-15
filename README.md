@@ -33,7 +33,7 @@ Many works have been done to analyze the connection between Deep models and Stat
   
 * **Scholars & Groups**:
   
-  * [OATML: Oxford Applied And Theore$Yical Machine Learning Group](https://oatml.cs.ox.ac.uk/tags/BDL.html#title)
+  * [OATML: Oxford Applied And Theoretical Machine Learning Group](https://oatml.cs.ox.ac.uk/tags/BDL.html#title)
   
   * [Andrew Gordon Wilson, NYU](https://cims.nyu.edu/~andrewgw/)
   
