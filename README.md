@@ -35,8 +35,14 @@ Many works have been done to analyze the connection between Deep models and Stat
 * **Scholars & Groups**:
   
   * [OATML: Oxford Applied And Theoretical Machine Learning Group](https://oatml.cs.ox.ac.uk/tags/BDL.html#title)
+  
   * [Andrew Gordon Wilson, NYU](https://cims.nyu.edu/~andrewgw/)
+  
   * [Neil D. Lawrence, Cantab](https://inverseprobability.com/index.html)
+  
+  * [Balaji Lakshminarayanan](http://www.gatsby.ucl.ac.uk/~balaji/)
+  
+    
   
   
 
@@ -56,6 +62,8 @@ Here Thesis marked in  $\spadesuit$  are some thesis for OoD and $\clubsuit$  fo
 
 * **Arxiv21-DDU:** Deterministic Neural Networks with Appropriate Inductive Biases Capture Epistemic and Aleatoric Uncertainty [**Paper**](https://arxiv.org/pdf/2102.11582.pdf),[**Code**](https://github.com/omegafragger/DDU)
 
+* **Arxiv21-DUE**: Improving Deterministic Uncertainty Estimation in Deep Learning for Classiﬁcation and Regression [Paper](https://arxiv.org/pdf/2102.11409.pdf), [Code](https://github.com/y0ast/DUE)
+
 * $\blacklozenge$ **AISTATS19**: Calibrating Deep Convolutional Gaussian Processes [**Paper**](https://ctn.zuckermaninstitute.columbia.edu/sites/default/files/content/Publications/2018/Tran%20%28Cunningham%29%2C%20Calibrating%20Deep%20Convolutional%20Gaussian%20Processes.pdf),[**Code**](https://github.com/ebonilla/convolutional_deep_gp_random_features)
 
 * $\blacklozenge$ **NeurIPS20**: Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness [**Paper**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-057.pdf),[**Code**](https://github.com/google/uncertainty-baselines/tree/master/baselines)
@@ -73,4 +81,3 @@ Here Thesis marked in  $\spadesuit$  are some thesis for OoD and $\clubsuit$  fo
 ### Generative models: VAE & GAN
 
 ## Time Series
-
